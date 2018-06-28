@@ -22,3 +22,5 @@ influenced by biogeographical and energetic factors, whereas functional dispersi
 by anthropogenic factors. Our results extend previous hypotheses for different assemblage metrics estimated from 
 empirical data and confirm the negative impact of humans on fish assemblages, highlighting the need for conservation of 
 oceanic islands. 
+
+Keywords: species richness, functional dispersion, density, fish biomass, biogeographic factors, energetic factors, anthropogenic factors, marine provinces.  
